@@ -4,7 +4,7 @@
 
 ## 📌 Overview
 
-The Gurgaon Real Estate Recommendation System is a web-based application built using Python and Streamlit to provide insights, predictions, and recommendations for real estate properties in Gurgaon, India. This project empowers users—whether buyers, sellers, investors, or market researchers—with tools to explore property data, predict prices, visualize trends, and discover similar apartments based on location and preferences.
+The `Gurgaon Real Estate Recommendation System` is a web-based application built using Python and Streamlit to provide insights, predictions, and recommendations for real estate properties in Gurgaon, India. This project empowers users—whether buyers, sellers, investors, or market researchers—with tools to explore property data, predict prices, visualize trends, and discover similar apartments based on location and preferences.
 
 
 ## 🌟 Features
